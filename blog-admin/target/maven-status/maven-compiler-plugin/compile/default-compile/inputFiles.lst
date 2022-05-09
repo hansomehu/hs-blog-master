@@ -1,0 +1,15 @@
+/Users/handsomnehu/Desktop/必学项目/最新前端和后端/blog-parent/blog-admin/src/main/java/com/mszlu/blog/admin/service/AuthService.java
+/Users/handsomnehu/Desktop/必学项目/最新前端和后端/blog-parent/blog-admin/src/main/java/com/mszlu/blog/admin/AdminApp.java
+/Users/handsomnehu/Desktop/必学项目/最新前端和后端/blog-parent/blog-admin/src/main/java/com/mszlu/blog/admin/config/SecurityConfig.java
+/Users/handsomnehu/Desktop/必学项目/最新前端和后端/blog-parent/blog-admin/src/main/java/com/mszlu/blog/admin/service/AdminService.java
+/Users/handsomnehu/Desktop/必学项目/最新前端和后端/blog-parent/blog-admin/src/main/java/com/mszlu/blog/admin/config/MybatisPlusConfig.java
+/Users/handsomnehu/Desktop/必学项目/最新前端和后端/blog-parent/blog-admin/src/main/java/com/mszlu/blog/admin/mapper/AdminMapper.java
+/Users/handsomnehu/Desktop/必学项目/最新前端和后端/blog-parent/blog-admin/src/main/java/com/mszlu/blog/admin/service/SecurityUserService.java
+/Users/handsomnehu/Desktop/必学项目/最新前端和后端/blog-parent/blog-admin/src/main/java/com/mszlu/blog/admin/model/params/PageParam.java
+/Users/handsomnehu/Desktop/必学项目/最新前端和后端/blog-parent/blog-admin/src/main/java/com/mszlu/blog/admin/vo/PageResult.java
+/Users/handsomnehu/Desktop/必学项目/最新前端和后端/blog-parent/blog-admin/src/main/java/com/mszlu/blog/admin/mapper/PermissionMapper.java
+/Users/handsomnehu/Desktop/必学项目/最新前端和后端/blog-parent/blog-admin/src/main/java/com/mszlu/blog/admin/pojo/Admin.java
+/Users/handsomnehu/Desktop/必学项目/最新前端和后端/blog-parent/blog-admin/src/main/java/com/mszlu/blog/admin/pojo/Permission.java
+/Users/handsomnehu/Desktop/必学项目/最新前端和后端/blog-parent/blog-admin/src/main/java/com/mszlu/blog/admin/controller/AdminController.java
+/Users/handsomnehu/Desktop/必学项目/最新前端和后端/blog-parent/blog-admin/src/main/java/com/mszlu/blog/admin/vo/Result.java
+/Users/handsomnehu/Desktop/必学项目/最新前端和后端/blog-parent/blog-admin/src/main/java/com/mszlu/blog/admin/service/PermissionService.java
